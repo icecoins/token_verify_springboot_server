@@ -36,7 +36,7 @@ host/time ：  获取当前时间，yyyy-MM-dd HH:mm:ss
 
 host/api/getUser/{name} ：  验证token，通过则返回message：200
 
-host/api/getUser/{name}/{pwd} ：  验证用户名密码，通过则返回token和user的info
+host/api/getUser ：  通过解析app发送的json验证用户名密码，通过则返回token和user's info
 
 host/api/getProperty/{username} ：  验证token与username后，返回对应的property
 
