@@ -10,7 +10,7 @@
 
 当然也可以在idea中直接启动，请在配置文件中修改数据库相关信息
 
-配套的android app：https://github.com/woyaogtmdttkp/TokenVerifier
+配套的android app：https://github.com/icecoins/TokenVerifier
 
 注意：bug非常多，很有可能一运行就报错，请不要过于惊讶
 
