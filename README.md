@@ -2,7 +2,7 @@
 
 原项目：https://github.com/JinBinPeng/springboot-jwt （致敬）
 
-而本springboot项目原计划运行于树莓派4b（2g ram）
+本springboot项目原计划运行于树莓派4b（2g ram）
 
 树莓派环境：宝塔面板 7.7，php 7.3, phpmyadmin 5.0, java openjdk 1.8， mysql 5.6，其余无关紧要
 
